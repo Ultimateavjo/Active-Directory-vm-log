@@ -293,7 +293,7 @@ Running a Group Policy refresh command on the server: <br/>
 <img src="https://github.com/user-attachments/assets/1c3ede80-db77-4ef5-93d4-f0c25f363b55" width="80%" alt="Running a Group Policy refresh command in Windows PowerShell"/>
 <br />
 <br />
-
+<p align="center">
 Reviewing the Group Policy update result: <br/>
 <img src="https://github.com/user-attachments/assets/9a57f7f0-977b-439b-84c0-6e1432780068" width="80%" alt="Group Policy update result displayed after the refresh"/>
 <br />
